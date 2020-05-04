@@ -9,6 +9,11 @@ define({
 
 <xml version="1.0" encoding="utf-8">
 <hor>
+<script src="hour">
+define({
+.hour.$aplication{.$ScheduleCommercial.$!/.com/br/,/OUT.Schedule.no.$/!/.<hour schedule="B³">B³</hour>}
+})
+</script>
   <name>time-</name>
   <namespace>
     locComment_text="{time}"microsoft.windows
@@ -37,3 +42,4 @@ define({
     </host>
   </hosts>
 </hor>
+
